@@ -1,0 +1,18 @@
+schedule:
+  day: SATURDAY
+  time: '19:00'
+  timezone: Europe/Vilnius
+capture:
+  duration-seconds: 180
+rewards: []
+last-winner: Faelvarai
+warehouse:
+  world: world
+  pos1:
+    x: -1743
+    y: 72
+    z: -379
+  pos2:
+    x: -1734
+    y: 72
+    z: -375
